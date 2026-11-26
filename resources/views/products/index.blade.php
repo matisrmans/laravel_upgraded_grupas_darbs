@@ -3,6 +3,8 @@
         All products
     </x-slot>
 
+    <span style="font-size: 1rem;">☺</span>
+
     <ul class="product-list">
         @foreach ($products as $product)
             <li>
